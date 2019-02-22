@@ -121,6 +121,21 @@ v) Process a template file that is replacing a content from another. i.e replace
 
 replace.sh
 
+w) Search and Replace in Multiple Files
+
+multiple.sh
+
+x) Find files older then N days in a directory.
+
+Demo.sh
+
+y) Delete files older then N days.
+
+Demo2.sh
+
+z) Delete Folder older then N days.
+
+Demo3.sh
 
 7) Make a shell script that would configure a firewall as below:
 
